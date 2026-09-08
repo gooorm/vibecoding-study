@@ -1,0 +1,10 @@
+﻿{
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": 2,
+    "workbench.editor.empty.hint": "hidden",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "python.defaultInterpreterPath": "C:\\Users\\USER\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "claudeCode.preferredLocation": "panel",
+    "dart.flutterSdkPath": "C:\\Users\\USER\\flutter",
+    "files.autoSave": "afterDelay"
+}
